@@ -1,5 +1,6 @@
 # Contador
-#### Projeto Java Básico - Controle de Fluxo
+## Projeto Java Básico - Controle de Fluxo
+#### Por: DIO (Digital Innovation One)
 ![Saída no Terminal](contador.png "Saída do Terminal") ![Saída no Terminal](erro-contador.png "Saída do Terminal")
 
 ### Sobre o Projeto
